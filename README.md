@@ -18,7 +18,7 @@ A machine learning project that classifies mushrooms as **edible** or **poisonou
 |------|-------------|
 | `ML_progetto_finale.knwf` | KNIME workflow (preprocessing, modeling, evaluation, tuning) |
 | `mushrooms_decoded.csv` | Dataset with readable category labels |
-| `ML_project___mushrooms.pdf` | Full project report |
+| `mushrooms calssification report.pdf` | Full project report |
 
 ## How to Run
 
