@@ -1,4 +1,4 @@
-# 🍄 Mushroom Edibility Classification
+#  Mushroom Edibility Classification
 
 A machine learning project that classifies mushrooms as **edible** or **poisonous** from categorical morphological features. Built in **KNIME**, it compares Decision Tree, Naive Bayes and Random Forest classifiers, tunes the decision threshold to eliminate false negatives, and uses SHAP to explain the model's predictions.
 
